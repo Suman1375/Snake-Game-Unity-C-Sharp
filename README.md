@@ -64,5 +64,6 @@
 
 
 <img src="Images/GameOver.png" alt="Main-Menu" width="100%" height="600">
-![image](https://github.com/Suman1375/Snake-Game-Unity-C-Sharp/assets/139076018/159efd39-1157-427d-9834-b415a1a5a74a)
+![image](https://github.com/Suman1375/Snake-Game-Unity-C-Sharp/assets/139076018/307a0d6c-e7d1-4b08-ad05-05f58e220bf3)
+
 
