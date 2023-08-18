@@ -59,7 +59,7 @@
 ![image](https://github.com/Suman1375/Snake-Game-Unity-C-Sharp/assets/139076018/b7ca8693-ec9f-442b-9da4-fc67ecb5c1dd)
 
 <img src="Images/Game.png" alt="Main-Menu" width="100%" height="600">
-![image](https://github.com/Suman1375/Snake-Game-Unity-C-Sharp/assets/139076018/7c868afe-bea2-4ab6-9d7c-616723b7a5d6)
+
 
 
 <img src="Images/GameOver.png" alt="Main-Menu" width="100%" height="600">
