@@ -60,6 +60,7 @@
 
 <img src="Images/Game.png" alt="Main-Menu" width="100%" height="600">
 
+![image](https://github.com/Suman1375/Snake-Game-Unity-C-Sharp/assets/139076018/618ecaff-821b-4e9b-bd77-0eb09e7ad3c2)
 
 
 <img src="Images/GameOver.png" alt="Main-Menu" width="100%" height="600">
